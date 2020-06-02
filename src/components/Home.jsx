@@ -19,21 +19,19 @@ export class Home extends Component {
                 <li><a href="#services">Services</a></li>
                 <li><a href="#portfolio">Portfolio</a></li>
                 <li><a href="#team">Team</a></li>
-                <li className="drop-down"><a href>Drop Down</a>
+                <li className="drop-down"><a href>Book an Appointment</a>
                   <ul>
-                    <li><a href="#">Drop Down 1</a></li>
-                    <li className="drop-down"><a href="#">Drop Down 2</a>
+                    <li><a href="#">Appointment 1</a></li>
+                    <li className="drop-down"><a href="#">Appointment 2</a>
                       <ul>
-                        <li><a href="#">Book an Appointment</a></li>
-                        <li><a href="#">Deep Drop Down 2</a></li>
-                        <li><a href="#">Deep Drop Down 3</a></li>
-                        <li><a href="#">Deep Drop Down 4</a></li>
-                        <li><a href="#">Deep Drop Down 5</a></li>
+                        <li><a href="#">Appointment X</a></li>
+                        <li><a href="#">Appointment Y</a></li>
+                        <li><a href="#">Appointment Z</a></li>
                       </ul>
                     </li>
-                    <li><a href="#">Drop Down 3</a></li>
-                    <li><a href="#">Drop Down 4</a></li>
-                    <li><a href="#">Drop Down 5</a></li>
+                    <li><a href="#">Appointment 3</a></li>
+                    <li><a href="#">Appointment 4</a></li>
+                    <li><a href="#">Appointment 5</a></li>
                   </ul>
                 </li>
                 <li><a href="#contact">Contact Us</a></li>
