@@ -13,11 +13,11 @@ export class Team extends Component {
               <div className="row">
                 <div className="col-lg-3 col-md-6 wow fadeInUp">
                   <div className="member">
-                    <img src="assets/img/team-1.jpg" className="img-fluid" alt="" />
+                    <img src="assets/img/Ramgopal.jpg" className="img-fluid" alt="" />
                     <div className="member-info">
                       <div className="member-info-content">
-                        <h4>Walter White</h4>
-                        <span>Chief Executive Officer</span>
+                        <h4>Ramgopal</h4>
+                        <span>Senior Director</span>
                         <div className="social">
                           <a href><i className="fa fa-twitter" /></a>
                           <a href><i className="fa fa-facebook" /></a>
@@ -30,11 +30,11 @@ export class Team extends Component {
                 </div>
                 <div className="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                   <div className="member">
-                    <img src="assets/img/team-2.jpg" className="img-fluid" alt="" />
+                    <img src="assets/img/Saroj.jpg" className="img-fluid" alt="" />
                     <div className="member-info">
                       <div className="member-info-content">
-                        <h4>Sarah Jhonson</h4>
-                        <span>Product Manager</span>
+                        <h4>Saroj</h4>
+                        <span>Managing Director</span>
                         <div className="social">
                           <a href><i className="fa fa-twitter" /></a>
                           <a href><i className="fa fa-facebook" /></a>
@@ -47,11 +47,11 @@ export class Team extends Component {
                 </div>
                 <div className="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
                   <div className="member">
-                    <img src="assets/img/team-3.jpg" className="img-fluid" alt="" />
+                    <img src="assets/img/Santosh.jpg" className="img-fluid" alt="" />
                     <div className="member-info">
                       <div className="member-info-content">
-                        <h4>William Anderson</h4>
-                        <span>CTO</span>
+                        <h4>Santosh</h4>
+                        <span>Marketing Head</span>
                         <div className="social">
                           <a href><i className="fa fa-twitter" /></a>
                           <a href><i className="fa fa-facebook" /></a>
@@ -64,7 +64,7 @@ export class Team extends Component {
                 </div>
                 <div className="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                   <div className="member">
-                    <img src="assets/img/team-4.jpg" className="img-fluid" alt="" />
+                    <img src="assets/img/team-2.jpg" className="img-fluid" alt="" />
                     <div className="member-info">
                       <div className="member-info-content">
                         <h4>Amanda Jepson</h4>

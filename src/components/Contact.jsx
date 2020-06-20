@@ -19,12 +19,11 @@ export class Contact extends Component {
                   <div className="row">
                     <div className="col-md-5 info">
                       <i className="ion-ios-location-outline" />
-                      <p>IndiQube-Omega, No.7/2,Old,78, New Maruthi Emerald, Graphite India Main Rd,ITPL Main Road 
-                        Bengaluru Karnatka 560066 </p>
+                      <p><b>Gagana Constultants Pvt Ltd.</b></p>
                     </div>
                     <div className="col-md-4 info">
                       <i className="ion-ios-email-outline" />
-                      <p>info@example.com</p>
+                      <p>saroj@gaganaconsultants.com</p>
                     </div>
                     <div className="col-md-3 info">
                       <i className="ion-ios-telephone-outline" />
@@ -56,7 +55,7 @@ export class Contact extends Component {
                         <div className="error-message" />
                         <div className="sent-message">Your message has been sent. Thank you!</div>
                       </div>
-                      <div className="text-center"><button type="submit" title="Send Message">Send Message</button></div>
+                      <div className="text-center"><button type="submit" title="Send Message">{/*Send Message*/} Release 2.0</button></div>
                     </form>
                   </div>
                 </div>

@@ -171,10 +171,10 @@ h1, h2, h3, h4, h5, h6 {
 # Navigation Menu
 --------------------------------------------------------------*/
 /* Desktop Navigation */
-.main-nav {
+/*.main-nav {
   /* Drop Down */
-  /* Deep Drop Down */
-}
+  /* Deep Drop Down 
+}*/
 
 .main-nav, .main-nav * {
   margin: 0;
@@ -376,7 +376,7 @@ h1, h2, h3, h4, h5, h6 {
   position: relative;
   background: url("../img/intro-bg.png") center bottom no-repeat;
   background-size: cover;
-  padding: 200px 0 120px 0;
+  padding: 230px 0 150px 0;
 }
 
 @media (max-width: 991px) {
@@ -1066,7 +1066,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #contact .section-header {
-  padding-bottom: 30px;
+  padding-top: 2%;
+  padding-bottom: 5%;
 }
 
 #contact .contact-about h3 {

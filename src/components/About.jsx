@@ -8,27 +8,29 @@ export class About extends Component {
             <div className="container">
               <header className="section-header">
                 <h3>About Us</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                <p>One company can maintain your accounting and market your Manufacturing  product to  world wide buyers..</p>
               </header>
               <div className="row about-container">
                 <div className="col-lg-6 content order-lg-1 order-2">
                   <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                  Our Company Objectives  to create future for people, We will be Bridge to Buyer and supplier. 
+                  One company can maintain your book keeping A/C and market your Manufacturing product to world wide Buyers.
+                  To buy  great product from right place & Maintains your accounts.
                   </p>
                   <div className="icon-box wow fadeInUp">
-                    <div className="icon"><i className="fa fa-shopping-bag" /></div>
-                    <h4 className="title"><a href>Eiusmod Tempor</a></h4>
-                    <p className="description">Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi</p>
+                    <div className="icon"><i className="fa fa-bar-chart" /></div>
+                    <h4 className="title"><a href>Accounting</a></h4>
+                    <p className="description">Providing Tailored Financial Services for Forward-Thinking Business Owners Helps in improving the company’s financial efficiency</p>
                   </div>
                   <div className="icon-box wow fadeInUp" data-wow-delay="0.2s">
                     <div className="icon"><i className="fa fa-photo" /></div>
-                    <h4 className="title"><a href>Magni Dolores</a></h4>
-                    <p className="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
+                    <h4 className="title"><a href>Online Bridge to Buyer and supplier.</a></h4>
+                    <p className="description">Providing Platform for small scale supplier to market their products to get right buyer</p>
                   </div>
                   <div className="icon-box wow fadeInUp" data-wow-delay="0.4s">
-                    <div className="icon"><i className="fa fa-bar-chart" /></div>
+                    <div className="icon"><i className="fa fa-shopping-bag"/></div>
                     <h4 className="title"><a href>Dolor Sitema</a></h4>
-                    <p className="description">Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat tarad limino ata</p>
+                    <p className="description">Our Company Objectives  to create future for People.</p>
                   </div>
                 </div>
                 <div className="col-lg-6 background order-lg-2 order-1 wow fadeInUp">
@@ -40,12 +42,12 @@ export class About extends Component {
                   <img src="assets/img/about-extra-1.svg" className="img-fluid" alt="" />
                 </div>
                 <div className="col-lg-6 wow fadeInUp pt-5 pt-lg-0">
-                  <h4>Voluptatem dignissimos provident quasi corporis voluptates sit assumenda.</h4>
+                  <h4>Services that we're providing 1:</h4>
                   <p>
-                    Ipsum in aspernatur ut possimus sint. Quia omnis est occaecati possimus ea. Quas molestiae perspiciatis occaecati qui rerum. Deleniti quod porro sed quisquam saepe. Numquam mollitia recusandae non ad at et a.
+                  We Undertake: Company Compliance, Audit Assignments, Tax Assistance In: Income tax, GST & TDS. Consultancy for Accounts and Tax it is Association of Qualified, MBA’& M. Com, B. Com, BBM & CA Graduates. Experience the field of Accounts Finance & Audit
                   </p>
                   <p>
-                    Ad vitae recusandae odit possimus. Quaerat cum ipsum corrupti. Odit qui asperiores ea corporis deserunt veritatis quidem expedita perferendis. Qui rerum eligendi ex doloribus quia sit. Porro rerum eum eum.
+                  We mainly focus on Small scale and medium scale supplier, manufacture to build their future.
                   </p>
                 </div>
               </div>
@@ -54,15 +56,15 @@ export class About extends Component {
                   <img src="assets/img/about-extra-2.svg" className="img-fluid" alt="" />
                 </div>
                 <div className="col-lg-6 wow fadeInUp pt-4 pt-lg-0 order-2 order-lg-1">
-                  <h4>Neque saepe temporibus repellat ea ipsum et. Id vel et quia tempora facere reprehenderit.</h4>
+                  <h4>Our Services 2:</h4>
                   <p>
-                    Delectus alias ut incidunt delectus nam placeat in consequatur. Sed cupiditate quia ea quis. Voluptas nemo qui aut distinctio. Cumque fugit earum est quam officiis numquam. Ducimus corporis autem at blanditiis beatae incidunt sunt.
+                  We have great Source suppliers  for all products, we can fulfill your requirements  from right suppliers as you need with 100% Quality Assurances.
                   </p>
                   <p>
-                    Voluptas saepe natus quidem blanditiis. Non sunt impedit voluptas mollitia beatae. Qui esse molestias. Laudantium libero nisi vitae debitis. Dolorem cupiditate est perferendis iusto.
+                  We have  experts  Free lance. CAD designer , Fashion Designer & Product developments.  As per your direction and new innovation  (R & D).
                   </p>
                   <p>
-                    Eum quia in. Magni quas ipsum a. Quis ex voluptatem inventore sint quia modi. Numquam est aut fuga mollitia exercitationem nam accusantium provident quia.
+                  We mainly focus on Small scale and medium scale supplier, manufacture to build their future.
                   </p>
                 </div>
               </div>

@@ -122,19 +122,19 @@ export class Home extends Component {
                 </div>
                 <div className="row counters">
                   <div className="col-lg-3 col-6 text-center">
-                    <span data-toggle="counter-up">274</span>
+                    <span data-toggle="counter-up">08</span>
                     <p>Clients</p>
                   </div>
                   <div className="col-lg-3 col-6 text-center">
-                    <span data-toggle="counter-up">421</span>
+                    <span data-toggle="counter-up">1000s</span>
                     <p>Projects</p>
                   </div>
                   <div className="col-lg-3 col-6 text-center">
-                    <span data-toggle="counter-up">1,364</span>
+                    <span data-toggle="counter-up">24</span>
                     <p>Hours Of Support</p>
                   </div>
                   <div className="col-lg-3 col-6 text-center">
-                    <span data-toggle="counter-up">18</span>
+                    <span data-toggle="counter-up">200</span>
                     <p>Hard Workers</p>
                   </div>
                 </div>
@@ -419,9 +419,9 @@ export class Home extends Component {
               <div className="container">
                 <div className="section-header">
                   <h3>Our CLients</h3>
-                  <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque dere santome nida.</p>
+                  <p>Release 2.0</p>
                 </div>
-                <div className="row no-gutters clients-wrap clearfix wow fadeInUp">
+                { <div className="row no-gutters clients-wrap clearfix wow fadeInUp">
                   <div className="col-lg-3 col-md-4 col-xs-6">
                     <div className="client-logo">
                       <img src="assets/img/clients/client-1.png" className="img-fluid" alt="" />
@@ -462,7 +462,7 @@ export class Home extends Component {
                       <img src="assets/img/clients/client-8.png" className="img-fluid" alt="" />
                     </div>
                   </div>
-                </div>
+                </div> }
               </div>
             </section>
             <Contact></Contact>{/* End Clients Section */}
@@ -534,28 +534,22 @@ export class Home extends Component {
               <div className="container">
                 <div className="row">
                   <div className="col-lg-4 col-md-6 footer-info">
-                    <h3>NewBiz</h3>
-                    <p>Cras fermentum odio eu feugiat lide par naso tierra. Justo eget nada terra videa magna derita valies darta donna mare fermentum iaculis eu non diam phasellus. Scelerisque felis imperdiet proin fermentum leo. Amet volutpat consequat mauris nunc congue.</p>
+                    <h4>Gagana Consultants Pvt Ltd</h4>
+                    <p>No.7/2, Old, 78 New, Maruthi Emerald, Graphite India Main Rd ITPL Main Road, Bengaluru, Karnataka 560066</p>
                   </div>
                   <div className="col-lg-2 col-md-6 footer-links">
                     <h4>Useful Links</h4>
                     <ul>
                       <li><a href="#">Home</a></li>
-                      <li><a href="#">About us</a></li>
-                      <li><a href="#">Services</a></li>
+                      {/* <li><a href="#">About us</a></li>
+                      <li><a href="#">Services</a></li> */}
                       <li><a href="#">Terms of service</a></li>
                       <li><a href="#">Privacy policy</a></li>
                     </ul>
                   </div>
                   <div className="col-lg-3 col-md-6 footer-contact">
-                    <h4>Contact Us</h4>
-                    <p>
-                      A108 Adam Street <br />
-                      New York, NY 535022<br />
-                      United States <br />
-                      <strong>Phone:</strong> +1 5589 55488 55<br />
-                      <strong>Email:</strong> info@example.com<br />
-                    </p>
+                    <h4>Follow Us</h4>
+                    <p>Release 2.0.</p>
                     <div className="social-links">
                       <a href="#" className="twitter"><i className="fa fa-twitter" /></a>
                       <a href="#" className="facebook"><i className="fa fa-facebook" /></a>
@@ -566,17 +560,17 @@ export class Home extends Component {
                   </div>
                   <div className="col-lg-3 col-md-6 footer-newsletter">
                     <h4>Our Newsletter</h4>
-                    <p>Tamen quem nulla quae legam multos aute sint culpa legam noster magna veniam enim veniam illum dolore legam minim quorum culpa amet magna export quem marada parida nodela caramase seza.</p>
-                    <form action method="post">
+                    <p>Release 2.0.</p>
+                    {/*<form action method="post">
                       <input type="email" name="email" /><input type="submit" defaultValue="Subscribe" />
-                    </form>
+                    </form>*/}
                   </div>
                 </div>
               </div>
             </div>
             <div className="container">
               <div className="copyright">
-                © Copyright <strong>NewBiz</strong>. All Rights Reserved
+                 © Copyright <strong>Gagana Consultants Pvt Ltd</strong>. All Rights Reserved 
               </div>
               <div className="credits">
                 {/*
@@ -585,7 +579,7 @@ export class Home extends Component {
           Licensing information: https://bootstrapmade.com/license/
           Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=NewBiz
         */}
-                Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+                Designed by<a href="https://bootstrapmade.com/">Bootstrap</a>
               </div>
             </div>
           </footer>{/* End Footer */}

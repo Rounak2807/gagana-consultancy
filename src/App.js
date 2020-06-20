@@ -9,6 +9,7 @@ import NavBar from './components/NavBar';
 import Contact from './components/Contact';
 import Team from './components/Team';
 import Services from './components/Services';
+import Portfolio from './components/Portfolio';
 
 
 function App() {
@@ -21,6 +22,7 @@ function App() {
         <Route path='/about' component={About}/>
         <Route path='/contact' component={Contact}/>
         <Route path='/team' component={Team}/>
+        <Route path='/portfolio' component={Portfolio}/>
         <Route path='/services' component={Services}/>
        </Switch>
      </Router>
