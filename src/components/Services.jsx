@@ -5,10 +5,10 @@ export class Services extends Component {
         return (
             <div>
                <section id="services" className="section-bg">
-            <div className="container">
+            <div className="container-fluid">
               <header className="section-header">
                 <h3>Services</h3>
-                <p>Laudem latine persequeris id sed, ex fabulas delectus quo. No vel partiendo abhorreant vituperatoribus.</p>
+                {/* <p>Laudem latine persequeris id sed, ex fabulas delectus quo. No vel partiendo abhorreant vituperatoribus.</p> */}
               </header>
               <div className="row">
                 <div className="col-md-6 col-lg-5 offset-lg-1 wow bounceInUp" data-wow-duration="1.4s">
@@ -46,7 +46,7 @@ export class Services extends Component {
                     <p className="description">SERVICES REGARDING TAXATION FOR APARTMENTS</p>
                   </div>
                 </div>
-                <div className="col-md-6 col-lg-5 wow bounceInUp" data-wow-delay="0.2s" data-wow-duration="1.4s">
+                {/* <div className="col-md-6 col-lg-5 wow bounceInUp" data-wow-delay="0.2s" data-wow-duration="1.4s">
                   <div className="box">
                     <div className="icon"><i className="ion-ios-clock-outline" style={{color: '#4680ff'}} /></div>
                     <h4 className="title"><a href>06</a></h4>
@@ -59,11 +59,11 @@ export class Services extends Component {
                     <h4 className="title"><a href>07</a></h4>
                     <p className="description">Preparation & Presentation of Weekly wises and Monthly Wise, Yearly wise.</p>
                   </div>
-                </div>
+                </div> */}
                 <div className="col-md-6 col-lg-5 wow bounceInUp" data-wow-delay="0.2s" data-wow-duration="1.4s">
                   <div className="box">
                     <div className="icon"><i className="ion-ios-clock-outline" style={{color: '#4680ff'}} /></div>
-                    <h4 className="title"><a href>08</a></h4>
+                    <h4 className="title"><a href>06</a></h4>
                     <p className="description">Company Business operation funds flow solution.</p>
                   </div>
                 </div>

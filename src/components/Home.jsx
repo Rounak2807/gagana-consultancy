@@ -4,6 +4,7 @@ import Services from './Services';
 import About from './About';
 import Team from './Team';
 import Contact from './Contact';
+import Portfolio from './Portfolio';
 export class Home extends Component {
     render() {
         return (
@@ -15,9 +16,9 @@ export class Home extends Component {
                 <img src="assets/img/intro-img.svg" alt="" className="img-fluid" />
               </div>
               <div className="intro-info">
-                <h2>We provide<br /><span>solutions</span><br />for your business!</h2>
+                <h2>We create<br /><span>Future</span><br />people to people.</h2>
                 <div>
-                  <a href="#about" className="btn-get-started scrollto">Get Started</a>
+                  {/* <a href="#about" className="btn-get-started scrollto">Get Started</a> */}
                   <NavLink className="btn-services scrollto" to='/services'>Our Services</NavLink>
                   {/* <a href="#services" className="btn-services scrollto">Our Services</a> */}
                 </div>
@@ -27,7 +28,7 @@ export class Home extends Component {
           <main id="main">
           <About></About>
             
-            <Services></Services>
+          <Services></Services>
             {/* <section id="services" className="section-bg">
               <div className="container">
                 <header className="section-header">
@@ -82,7 +83,7 @@ export class Home extends Component {
             </section> */}
             {/* End Services Section */}
             {/* ======= Why Us Section ======= */}
-            <section id="why-us" className="wow fadeIn">
+            {/* <section id="why-us" className="wow fadeIn">
               <div className="container">
                 <header className="section-header">
                   <h3>Why choose us?</h3>
@@ -139,8 +140,9 @@ export class Home extends Component {
                   </div>
                 </div>
               </div>
-            </section>{/* End Why Us Section */}
+            </section>End Why Us Section */}
             {/* ======= Portfolio Section ======= */}
+            <Portfolio></Portfolio>
             {/* <section id="portfolio" className="clearfix">
               <div className="container">
                 <header className="section-header">
@@ -415,7 +417,7 @@ export class Home extends Component {
             </section> */}
             {/* End Team Section */}
             {/* ======= Clients Section ======= */}
-            <section id="clients" className="section-bg">
+            {/* <section id="clients" className="section-bg">
               <div className="container">
                 <div className="section-header">
                   <h3>Our CLients</h3>
@@ -464,8 +466,9 @@ export class Home extends Component {
                   </div>
                 </div> }
               </div>
-            </section>
-            <Contact></Contact>{/* End Clients Section */}
+            </section> */}
+            {/* End Clients Section */}
+            <Contact></Contact>
             {/* ======= Contact Section ======= */}
              
             {/* <section id="contact">
@@ -549,21 +552,21 @@ export class Home extends Component {
                   </div>
                   <div className="col-lg-3 col-md-6 footer-contact">
                     <h4>Follow Us</h4>
-                    <p>Release 2.0.</p>
+                    {/* <p>Release 2.0.</p> */}
                     <div className="social-links">
-                      <a href="#" className="twitter"><i className="fa fa-twitter" /></a>
-                      <a href="#" className="facebook"><i className="fa fa-facebook" /></a>
-                      <a href="#" className="instagram"><i className="fa fa-instagram" /></a>
-                      <a href="#" className="google-plus"><i className="fa fa-google-plus" /></a>
-                      <a href="#" className="linkedin"><i className="fa fa-linkedin" /></a>
+                      <a href="https://twitter.com/login" className="twitter"><i className="fa fa-twitter" /></a>
+                      <a href="https://en-gb.facebook.com/login/" className="facebook"><i className="fa fa-facebook" /></a>
+                      <a href="https://www.instagram.com/accounts/login/?hl=en" className="instagram"><i className="fa fa-instagram" /></a>
+                      <a href="https://accounts.google.com/signin" className="google-plus"><i className="fa fa-google-plus" /></a>
+                      {/* <a href="#" className="linkedin"><i className="fa fa-linkedin" /></a> */}
                     </div>
                   </div>
                   <div className="col-lg-3 col-md-6 footer-newsletter">
                     <h4>Our Newsletter</h4>
-                    <p>Release 2.0.</p>
-                    {/*<form action method="post">
+                    <p>Coming soon</p>
+                    {/* <form action method="post">
                       <input type="email" name="email" /><input type="submit" defaultValue="Subscribe" />
-                    </form>*/}
+                    </form> */}
                   </div>
                 </div>
               </div>

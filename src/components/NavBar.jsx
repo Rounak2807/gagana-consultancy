@@ -9,8 +9,8 @@ export class NavBar extends Component {
             <div className="logo float-left">
               {/* Uncomment below if you prefer to use an text logo */}
               {/* <h1 class="text-light"><a href="#header"><span>NewBiz</span></a></h1> */}
-              <a href="#intro" className="scrollto">
-              <img src="assets/img/logo.png" alt="" className="img-fluid" /></a>
+              <a href="/" className="scrollto">
+              <img src="assets/img/GCPL_LOGO.png" alt="" className="img-fluid" /></a>
             </div>
             <nav className="main-nav float-right d-none d-lg-block">
               <ul>

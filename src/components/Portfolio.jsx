@@ -4,9 +4,10 @@ export class Portfolio extends Component {
     render() {
         return ( 
                 <div>
-                    <section id="portfolio">
+            <section id="portfolio">
             <div className="container">
-              <div className="section-header"></div>
+              <div className="section-header">
+                <h3 className="section-title">Our Portfolio</h3></div>
                 <div className="row portfolio-container">
                   <div className="col-lg-4 col-md-6 portfolio-item filter-app">
                     <div className="portfolio-wrap">
@@ -34,7 +35,7 @@ export class Portfolio extends Component {
                       </div>
                     </div>
                   </div>
-                  <div className="col-lg-4 col-md-6 portfolio-item filter-app" data-wow-delay="0.2s">
+                  {/* <div className="col-lg-4 col-md-6 portfolio-item filter-app" data-wow-delay="0.2s">
                     <div className="portfolio-wrap">
                       <img src="assets/img/portfolio/app2.jpg" className="img-fluid" alt="" />
                       <div className="portfolio-info">
@@ -46,8 +47,8 @@ export class Portfolio extends Component {
                         </div>
                       </div>
                     </div>
-                  </div>
-                  <div className="col-lg-4 col-md-6 portfolio-item filter-card">
+                  </div> */}
+                  {/* <div className="col-lg-4 col-md-6 portfolio-item filter-card">
                     <div className="portfolio-wrap">
                       <img src="assets/img/portfolio/card2.jpg" className="img-fluid" alt="" />
                       <div className="portfolio-info">
@@ -59,8 +60,8 @@ export class Portfolio extends Component {
                         </div>
                       </div>
                     </div>
-                  </div>
-                  <div className="col-lg-4 col-md-6 portfolio-item filter-web" data-wow-delay="0.1s">
+                  </div> */}
+                  {/* <div className="col-lg-4 col-md-6 portfolio-item filter-web" data-wow-delay="0.1s">
                     <div className="portfolio-wrap">
                       <img src="assets/img/portfolio/web2.jpg" className="img-fluid" alt="" />
                       <div className="portfolio-info">
@@ -72,7 +73,7 @@ export class Portfolio extends Component {
                         </div>
                       </div>
                     </div>
-                  </div>
+                  </div> */}
                   <div className="col-lg-4 col-md-6 portfolio-item filter-app" data-wow-delay="0.2s">
                     <div className="portfolio-wrap">
                       <img src="assets/img/portfolio/app3.jpg" className="img-fluid" alt="" />
@@ -112,7 +113,7 @@ export class Portfolio extends Component {
                       </div>
                     </div>
                   </div>
-                  <div className="col-lg-4 col-md-6 portfolio-item filter-web" data-wow-delay="0.2s">
+                  {/* <div className="col-lg-4 col-md-6 portfolio-item filter-web" data-wow-delay="0.2s">
                     <div className="portfolio-wrap">
                       <img src="assets/img/portfolio/web1.jpg" className="img-fluid" alt="" />
                       <div className="portfolio-info">
@@ -124,7 +125,7 @@ export class Portfolio extends Component {
                         </div>
                       </div>
                     </div>
-                  </div>
+                  </div> */}
                 </div>
               </div> 
               </section>

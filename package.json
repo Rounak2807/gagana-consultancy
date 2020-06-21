@@ -1,5 +1,6 @@
 {
   "name": "gagana-consultancy",
+  "homepage": "http://gaganaconsultants.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

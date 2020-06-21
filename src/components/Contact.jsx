@@ -17,20 +17,76 @@ export class Contact extends Component {
                 </div>
                 <div className="col-lg-6">
                   <div className="row">
-                    <div className="col-md-5 info">
+                    {/* <div className="col-md-5 info">
                       <i className="ion-ios-location-outline" />
                       <p><b>Gagana Constultants Pvt Ltd.</b></p>
-                    </div>
-                    <div className="col-md-4 info">
+                    </div> */}
+                    <div className="col-md-5 info">
                       <i className="ion-ios-email-outline" />
-                      <p>saroj@gaganaconsultants.com</p>
+                      <p><b>saroj@gaganaconsultants.com</b></p>
                     </div>
                     <div className="col-md-3 info">
                       <i className="ion-ios-telephone-outline" />
                       <p>+91 9900633943</p>
                     </div>
                   </div>
-                  <div className="form">
+                  <div className="row">
+                    {/* <div className="col-md-5 info">
+                      <i className="ion-ios-location-outline" />
+                      <p><b>Gagana Constultants Pvt Ltd.</b></p>
+                    </div> */}
+                    <div className="col-md-5 info">
+                      <i className="ion-ios-email-outline" />
+                      <p><b>ramgopal@gaganaconsultants.com</b></p>
+                    </div>
+                    <div className="col-md-3 info">
+                      <i className="ion-ios-telephone-outline" />
+                      <p>+91 9900633943</p>
+                    </div>
+                  </div>
+                  <div className="row">
+                    {/* <div className="col-md-5 info">
+                      <i className="ion-ios-location-outline" />
+                      <p><b>Gagana Constultants Pvt Ltd.</b></p>
+                    </div> */}
+                    <div className="col-md-5 info">
+                      <i className="ion-ios-email-outline" />
+                      <p><b>santosh@gaganaconsultants.com</b></p>
+                    </div>
+                    <div className="col-md-3 info">
+                      <i className="ion-ios-telephone-outline" />
+                      <p>+91 9900633943</p>
+                    </div>
+                  </div>
+                  <div className="row">
+                    {/* <div className="col-md-5 info">
+                      <i className="ion-ios-location-outline" />
+                      <p><b>Gagana Constultants Pvt Ltd.</b></p>
+                    </div> */}
+                    <div className="col-md-5 info">
+                      <i className="ion-ios-email-outline" />
+                      <p>kumar.rounak446@gmail.com</p>
+                    </div>
+                    <div className="col-md-3 info">
+                      <i className="ion-ios-telephone-outline" />
+                      <p>--- ----------</p>
+                    </div>
+                  </div>
+                  <div className="row">
+                    {/* <div className="col-md-5 info">
+                      <i className="ion-ios-location-outline" />
+                      <p><b>Gagana Constultants Pvt Ltd.</b></p>
+                    </div> */}
+                    <div className="col-md-5 info">
+                      <i className="ion-ios-email-outline" />
+                      <p>gr_00001@hotmail.com</p>
+                    </div>
+                    <div className="col-md-3 info">
+                      <i className="ion-ios-telephone-outline" />
+                      <p>--- ----------</p>
+                    </div>
+                  </div>
+                  {/* {/* <div className="form">
                     <form action="forms/contact.php" method="post" role="form" className="php-email-form">
                       <div className="form-row">
                         <div className="form-group col-lg-6">
@@ -55,9 +111,9 @@ export class Contact extends Component {
                         <div className="error-message" />
                         <div className="sent-message">Your message has been sent. Thank you!</div>
                       </div>
-                      <div className="text-center"><button type="submit" title="Send Message">{/*Send Message*/} Release 2.0</button></div>
-                    </form>
-                  </div>
+                      <div className="text-center"><button type="submit" title="Send Message">Send Message Release 2.0</button></div>
+                    </form> 
+                  </div> */}
                 </div>
               </div>
             </div>
