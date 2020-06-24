@@ -8,7 +8,7 @@ export class Team extends Component {
             <div className="container-fluid">
               <div className="section-header">
                 <h3>Team</h3>
-                <p>Our Working Team Structure</p>
+                {/* <p>Team Structure</p> */}
               </div>
               <div className="row">
                 <div className="col-lg-3 col-md-6 wow fadeInUp">

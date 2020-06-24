@@ -19,7 +19,8 @@ export class Home extends Component {
                 <h2>We create<br /><span>Future</span><br />people to people.</h2>
                 <div>
                   {/* <a href="#about" className="btn-get-started scrollto">Get Started</a> */}
-                  <NavLink className="btn-services scrollto" to='/services'>Our Services</NavLink>
+                  <NavLink className="btn-services scrollto" to='/services'>Accounting Services</NavLink>
+                  <NavLink className="btn-services scrollto" to='/services'>Bridge to Buyer & Supplier</NavLink>
                   {/* <a href="#services" className="btn-services scrollto">Our Services</a> */}
                 </div>
               </div>

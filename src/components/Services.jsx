@@ -15,7 +15,7 @@ export class Services extends Component {
                   <div className="box">
                     <div className="icon"><i className="ion-ios-analytics-outline" style={{color: '#ff689b'}} /></div>
                     <h4 className="title"><a href>01</a></h4>
-                    <p className="description">Accounting Services, Auditing</p>
+                    <p className="description">Accounting, Auditing Services</p>
                   </div>
                 </div>
                 <div className="col-md-6 col-lg-5 wow bounceInUp" data-wow-duration="1.4s">
@@ -46,24 +46,24 @@ export class Services extends Component {
                     <p className="description">SERVICES REGARDING TAXATION FOR APARTMENTS</p>
                   </div>
                 </div>
-                {/* <div className="col-md-6 col-lg-5 wow bounceInUp" data-wow-delay="0.2s" data-wow-duration="1.4s">
+                <div className="col-md-6 col-lg-5 wow bounceInUp" data-wow-delay="0.2s" data-wow-duration="1.4s">
                   <div className="box">
                     <div className="icon"><i className="ion-ios-clock-outline" style={{color: '#4680ff'}} /></div>
                     <h4 className="title"><a href>06</a></h4>
-                    <p className="description">Books of Accounts in Electronic mode / Tally. & Quick Book On Contractual basis the Services included.</p>
+                    <p className="description">Books of Accounts in Electronic mode / Tally.</p>
                   </div>
                 </div>
                 <div className="col-md-6 col-lg-5 offset-lg-1 wow bounceInUp" data-wow-delay="0.2s" data-wow-duration="1.4s">
                   <div className="box">
                     <div className="icon"><i className="ion-ios-analytics-outline" style={{color: '#ff986b'}} /></div>
                     <h4 className="title"><a href>07</a></h4>
-                    <p className="description">Preparation & Presentation of Weekly wises and Monthly Wise, Yearly wise.</p>
+                    <p className="description">Preparation & Presentation of Weekly, Monthly & Yearly wise.</p>
                   </div>
-                </div> */}
+                </div>
                 <div className="col-md-6 col-lg-5 wow bounceInUp" data-wow-delay="0.2s" data-wow-duration="1.4s">
                   <div className="box">
                     <div className="icon"><i className="ion-ios-clock-outline" style={{color: '#4680ff'}} /></div>
-                    <h4 className="title"><a href>06</a></h4>
+                    <h4 className="title"><a href>08</a></h4>
                     <p className="description">Company Business operation funds flow solution.</p>
                   </div>
                 </div>

@@ -14,7 +14,7 @@ export class NavBar extends Component {
             </div>
             <nav className="main-nav float-right d-none d-lg-block">
               <ul>
-                <li className="active"><NavLink className="active" to='/'>Insights</NavLink></li>
+                <li /*className="active"*/><NavLink /*className="active"*/ to='/'>Insights</NavLink></li>
                 <li> <NavLink  to='/about'>About Us</NavLink> </li>
                 <li> <NavLink  to='/services'>Services</NavLink></li>
                 <li><NavLink  to='/portfolio'>Portfolio</NavLink></li>
@@ -32,7 +32,7 @@ export class NavBar extends Component {
                     </li>
                     <li><a href="#">Business Plan</a></li>
                     <li><a href="#">CA Services</a></li>
-                    <li><a href="#">Fashion Design</a></li>
+                    <li><a href="#">Bridge to Buyer and Supplier</a></li>
                   </ul>
                 </li>
                 <li><NavLink  to='/contact'>Contact Us</NavLink> </li>
